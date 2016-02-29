@@ -1,0 +1,28 @@
+name: TestMC
+favicon: null
+layout_spectrum: 0.45439325412735343
+typography_spectrum: 0.28988769045099616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2222565789707005
+  lightness: 0.15025210077874362
+  saturation: 0.36163206258788705
+  rhythmicContrast: 0.8883762292098254
+purpose: []
